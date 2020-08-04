@@ -1,0 +1,4 @@
+language = "python3"
+run = "bash replit_setup.sh"
+
+# Hit the Fork button above if you haven't already. Then head over to README.md to get started!
